@@ -1,0 +1,58 @@
+[
+   {
+      "titulo": "El tunel",
+      "estado": "Terminado"
+   },
+   {
+      "titulo": "Las venas abiertas de America Latina",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Persépolis",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Cien años de soledad",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "Los juegos del hambre",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Mafalda",
+      "estado": "Terminado"
+   },
+   {
+      "titulo": "Todos deberiamos ser feministas",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "El fantasma de Canterville",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "La divina comedia",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "El principito",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "El señor de los anillos",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Metamorfosis",
+      "estado": "Terminado"
+   },
+   {
+      "titulo": "Martin fierro",
+      "estado": "Terminado"
+   },
+   {
+      "titulo": "siega",
+      "estado": "pendiente"
+   }
+]
